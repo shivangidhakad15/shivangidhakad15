@@ -9,7 +9,7 @@
 
 - 🔭 I’m currently working on **Competitive Coding and DSA**
 
-- 🌱 I’m currently learning **AWS, DSA in Java, and MERN**
+- 🌱 I’m currently learning **DSA in Java, MERN Full Stack, and AWS**
 
 - 📫 How to reach me **shivangidhakad15@gmail.com**
 
