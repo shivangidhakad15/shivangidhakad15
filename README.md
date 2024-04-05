@@ -11,7 +11,7 @@
 
 - 🌱 I’m currently learning **DSA in Java, MERN Full Stack, and AWS**
 
-- 📫 How to reach me **shivangidhakad15@gmail.com**
+- 📫 How to reach me **shivangidhakar7745@gmail.com**
 
 - 📄 Know about my experiences [https://drive.google.com/file/d/1G1nDI0fDxFm7JJFCaS54iigWb4nMWK89/view?usp=sharing](https://drive.google.com/file/d/1G1nDI0fDxFm7JJFCaS54iigWb4nMWK89/view?usp=sharing)
 
