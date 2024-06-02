@@ -9,11 +9,9 @@
 
 - 🔭 I’m currently working on **Competitive Coding and DSA**
 
-- 🌱 I’m currently learning **DSA in Java, MERN Full Stack, and AWS**
+- 🌱 I’m currently learning **DSA in Python, MERN Full Stack, and AWS**
 
 - 📫 How to reach me **shivangidhakar7745@gmail.com**
-
-- 📄 Know about my experiences [https://drive.google.com/file/d/1G1nDI0fDxFm7JJFCaS54iigWb4nMWK89/view?usp=sharing](https://drive.google.com/file/d/1G1nDI0fDxFm7JJFCaS54iigWb4nMWK89/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
